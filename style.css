@@ -60,7 +60,7 @@ footer {
 /* Logo styling */
 .logo {
     width: 10px;  /* Adjust size as needed */
-    height: auto;
+    height: 10px;
     display: block;
     margin: 10px auto;
 }

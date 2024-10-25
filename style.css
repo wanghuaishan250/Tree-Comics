@@ -57,3 +57,10 @@ footer {
     bottom: 0;
     width: 100%;
 }
+/* Logo styling */
+.logo {
+    width: 100px;  /* Adjust size as needed */
+    height: auto;
+    display: block;
+    margin: 10px auto;
+}

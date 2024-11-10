@@ -43,6 +43,12 @@ section {
     transition: transform 0.2s;
 }
 
+/* Apply styles to SVG images specifically */
+.grid img[src$=".svg"] {
+    max-width: 100%;
+    height: auto;
+}
+
 .grid img:hover {
     transform: scale(1.05);
 }
